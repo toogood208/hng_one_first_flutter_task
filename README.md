@@ -10,7 +10,7 @@ this is a simple app that displays the name of the user
 
 ![](https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png)
 <p float="left">
-  <img src="/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png" width="100" />
-  <img src="/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png" width="100" /> 
-  <img src="/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png" width="100" />
+  <img src=![]("/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png)" width="100" />
+  <img src="![]("/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png)" width="100" /> 
+  <img src="/![]("/https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png.png)" width="100" />
 </p>
