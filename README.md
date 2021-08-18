@@ -4,3 +4,6 @@
 this is a simple app that displays the name of the user
 ## Link to hosted app on appetizer.io
 [hosted](https://appetize.io/app/yjz7pm9ahycuyrgrppyy0ey9c8?device=pixel4xl&scale=75&orientation=portrait&osVersion=10.0)
+--------------------------------------------------------------------------------------------------------------------------
+## Link to zuri websie
+[zuri](https://internship.zuri.team/)
