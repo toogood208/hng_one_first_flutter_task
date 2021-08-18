@@ -7,3 +7,5 @@ this is a simple app that displays the name of the user
 --------------------------------------------------------------------------------------------------------------------------
 ## Link to zuri websie
 [zuri](https://internship.zuri.team/)
+
+[](https://github.com/toogood208/hng_one_first_flutter_task/blob/main/assets/images/hng.png =250)
